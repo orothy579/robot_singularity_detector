@@ -1,0 +1,1 @@
+# robot_singularity_detector
